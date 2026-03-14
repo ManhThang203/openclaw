@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
-  <img src="https://img.shields.io/badge/Language-Python-success?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/AI-GPT-orange?style=for-the-badge" alt="AI GPT">
+  <img src="https://img.shields.io/badge/OpenClaw-orange?style=for-the-badge" alt="OpenClaw">
 </p>
 
 ---
@@ -19,18 +18,21 @@ Dự án được phát triển với mục tiêu tự động hóa các công v
 ## ✨ Các Tính Năng Chính
 
 ### 1. 📧 Đọc Email
+
 - Kết nối và truy cập hộp thư email của người dùng một cách an toàn
 - Hiển thị nội dung email với định dạng rõ ràng, dễ đọc
 - Hỗ trợ nhiều nhà cung cấp dịch vụ email phổ biến (Gmail, Outlook, Yahoo, v.v.)
 - Truy xuất thông tin người gửi, ngày nhận, tiêu đề và nội dung chính
 
 ### 2. 📝 Tóm Tắt Email
+
 - Sử dụng công nghệ AI để phân tích và tóm tắt nội dung email
 - Trích xuất các điểm chính của email một cách nhanh chóng
 - Giúp người dùng nắm bắt nội dung quan trọng mà không cần đọc toàn bộ email
 - Hỗ trợ tóm tắt cả email dài với nội dung phức tạp
 
 ### 3. 🔍 Tìm Kiếm Web
+
 - Tích hợp khả năng tìm kiếm thông tin trên internet
 - Trả về kết quả tìm kiếm chính xác và phù hợp với yêu cầu
 - Hỗ trợ tìm kiếm bằng tiếng Việt và tiếng Anh
@@ -41,6 +43,7 @@ Dự án được phát triển với mục tiêu tự động hóa các công v
 ### Ví Dụ Sử Dụng
 
 #### Đọc email mới
+
 ```
 Người dùng: /reademail
 Bot: 📧 Email mới nhất từ: sender@example.com
@@ -50,6 +53,7 @@ Bot: 📧 Email mới nhất từ: sender@example.com
 ```
 
 #### Tóm tắt email
+
 ```
 Người dùng: /summarize
 Bot: 📝 Tóm tắt email:
@@ -65,7 +69,7 @@ Bot: 📝 Tóm tắt email:
 - ✅ Bot Telegram hoạt động ổn định và phản hồi nhanh
 - ✅ Tính năng đọc email hoạt động với ít nhất 1 nhà cung cấp email phổ biến
 - ✅ Tóm tắt email cho kết quả chính xác trong vòng 5 giây
-- ✅ Tìm kiếm web trả về kết quả liên quan đến từ khóa  
+- ✅ Tìm kiếm web trả về kết quả liên quan đến từ khóa
 
 ---
 
